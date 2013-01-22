@@ -7,3 +7,5 @@ Testing the diff
 
 this is a new insertion text
 this is another insertion of text
+
+This line is inserted by the new user
